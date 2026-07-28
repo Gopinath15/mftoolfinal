@@ -1,0 +1,7 @@
+requests
+bs4
+httpx
+pandas
+yfinance
+matplotlib
+deprecated
