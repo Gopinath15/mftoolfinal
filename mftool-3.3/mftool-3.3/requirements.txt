@@ -6,3 +6,4 @@ httpx
 requests
 beautifulsoup4
 matplotlib
+yfinance
